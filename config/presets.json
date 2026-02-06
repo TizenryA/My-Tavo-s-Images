@@ -15,7 +15,7 @@
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
-    "smea": false,
+    "smea": true,
     "variety": false,
     "suffix": "{artist:luohuarumeng}, clean style, soft lighting, elegant",
     "neg": "lowres, bad anatomy, worst quality, blurry, dirty, dark theme",
