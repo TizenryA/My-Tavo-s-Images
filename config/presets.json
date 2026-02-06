@@ -53,5 +53,16 @@
     "suffix": "{artist:ratatatat74}, {{dramatic lighting}}, {volumetric light}",
     "neg": "lowres, bad anatomy, worst quality, blurry, flat lighting, cel shading",
     "isBuiltin": true
+  },
+  "c_1770356555139": {
+    "name": "无敌线条饱和",
+    "suffix": "{artist:luohuarumeng}, {artist:ciloranko}, clean style, soft lighting, {glossy skin}, {wet skin}, smooth skin, delicate features, {detailed eyes}, refined details, beautiful lighting, elegant",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, dry skin, rough skin, matte skin, dirty, messy, gritty, dark theme",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false,
+    "isBuiltin": false
   }
 }
