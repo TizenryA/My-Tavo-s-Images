@@ -52,5 +52,15 @@
     "scale": 7,
     "smea": false,
     "variety": false
+  },
+  "c_1770655413454": {
+    "name": "落英专用",
+    "suffix": "character sheet, reference sheet, simple background, white background, clean lineart, thin lineart, soft shading, minimal shading, flat color, natural skin tone, realistic proportions, detailed anatomy, nude, full body, multiple views, front view, side view, back view, standing, simple pose, high quality",
+    "neg": "vibrant colors, high contrast, dramatic lighting, thick lineart, sketch, rough, chibi, stylized proportions",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
