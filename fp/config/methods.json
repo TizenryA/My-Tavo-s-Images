@@ -1,0 +1,211 @@
+{
+  "obedience": {
+    "name": "服从性训练",
+    "icon": "🔗",
+    "methods": [
+      {
+        "id": "cmd_train",
+        "name": "口令训练",
+        "desc": "反复指令建立条件反射",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "kneeling, obedient pose, collar, command"
+      },
+      {
+        "id": "posture_train",
+        "name": "体位训练",
+        "desc": "强制特定姿势长时间维持",
+        "params": [
+          "intensity",
+          "duration",
+          "parts"
+        ],
+        "scene_tags": "forced pose, restrained, stress position"
+      },
+      {
+        "id": "cond_reflex",
+        "name": "条件反射",
+        "desc": "将特定刺激与特定反应绑定",
+        "params": [
+          "intensity",
+          "duration",
+          "count"
+        ],
+        "scene_tags": "conditioned response, bell, training"
+      },
+      {
+        "id": "reward_punish",
+        "name": "奖惩循环",
+        "desc": "系统性奖惩建立服从路径",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "reward, punishment, carrot and stick"
+      }
+    ]
+  },
+  "pleasure": {
+    "name": "快感开发",
+    "icon": "💗",
+    "methods": [
+      {
+        "id": "sensitive_dev",
+        "name": "敏感点开发",
+        "desc": "系统性开发身体敏感区域",
+        "params": [
+          "intensity",
+          "parts",
+          "duration",
+          "count"
+        ],
+        "scene_tags": "sensitive, stimulation, trembling, flushed"
+      },
+      {
+        "id": "forced_orgasm",
+        "name": "强制高潮",
+        "desc": "不间断刺激直至高潮",
+        "params": [
+          "intensity",
+          "parts",
+          "duration",
+          "count"
+        ],
+        "scene_tags": "forced orgasm, overstimulation, ahegao, convulsing"
+      },
+      {
+        "id": "fetish_implant",
+        "name": "性癖植入",
+        "desc": "通过反复关联植入特定性癖",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "hypnosis, mind control, blank eyes"
+      },
+      {
+        "id": "orgasm_control",
+        "name": "高潮控制",
+        "desc": "反复逼近阈值但不允许释放",
+        "params": [
+          "intensity",
+          "duration",
+          "count"
+        ],
+        "scene_tags": "edging, denied orgasm, desperate, begging"
+      }
+    ]
+  },
+  "punishment": {
+    "name": "惩罚系统",
+    "icon": "⚡",
+    "methods": [
+      {
+        "id": "whipping",
+        "name": "鞭打",
+        "desc": "皮鞭惩戒",
+        "params": [
+          "intensity",
+          "parts",
+          "count"
+        ],
+        "scene_tags": "whip, whip marks, red marks, screaming"
+      },
+      {
+        "id": "confinement",
+        "name": "禁闭",
+        "desc": "黑暗隔离空间长时间关押",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "solitary, dark room, isolation, curled up"
+      },
+      {
+        "id": "shock",
+        "name": "电击",
+        "desc": "魔石电击惩罚",
+        "params": [
+          "intensity",
+          "parts",
+          "count"
+        ],
+        "scene_tags": "electric shock, convulsing, electrodes"
+      },
+      {
+        "id": "sensory_dep",
+        "name": "感官剥夺",
+        "desc": "遮蔽所有感官",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "blindfold, earplugs, sensory deprivation"
+      },
+      {
+        "id": "long_restrain",
+        "name": "长时间拘束",
+        "desc": "长时间固定姿势拘束",
+        "params": [
+          "intensity",
+          "duration",
+          "parts"
+        ],
+        "scene_tags": "bound, restrained, suspension, rope marks"
+      }
+    ]
+  },
+  "mental": {
+    "name": "精神处理",
+    "icon": "🧠",
+    "methods": [
+      {
+        "id": "self_strip",
+        "name": "自我剥离",
+        "desc": "系统性剥离原有自我认知",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "blank stare, identity loss, hollow eyes"
+      },
+      {
+        "id": "id_replace",
+        "name": "身份替换",
+        "desc": "用新身份覆写原有人格",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "pet play, dehumanization, collar, leash"
+      },
+      {
+        "id": "shame_therapy",
+        "name": "羞耻疗法",
+        "desc": "通过公开展示和镜前确认",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "embarrassed, blushing, exposed, mirror"
+      },
+      {
+        "id": "race_break",
+        "name": "种族认同瓦解",
+        "desc": "迫使放弃种族骄傲",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "scene_tags": "broken pride, crying, humiliation"
+      }
+    ]
+  },
+  "custom": {
+    "name": "自定义",
+    "icon": "✏️",
+    "methods": []
+  }
+}
