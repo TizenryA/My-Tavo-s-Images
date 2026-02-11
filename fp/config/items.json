@@ -1,0 +1,86 @@
+{
+  "drugs": [
+    {
+      "id": "aphro",
+      "name": "催情药水",
+      "st": "flushed, aroused, panting"
+    },
+    {
+      "id": "anes",
+      "name": "麻醉剂",
+      "st": "drowsy, limp body"
+    },
+    {
+      "id": "sensi",
+      "name": "增敏液",
+      "st": "hypersensitive, trembling, wet skin, glistening"
+    },
+    {
+      "id": "willw",
+      "name": "意志弱化剂",
+      "st": "glazed eyes, dazed, confused"
+    },
+    {
+      "id": "stam",
+      "name": "持久兴奋剂",
+      "st": "alert, wide eyes"
+    }
+  ],
+  "tools": [
+    {
+      "id": "chains",
+      "name": "锁链",
+      "st": "chains, iron chains"
+    },
+    {
+      "id": "cuffs",
+      "name": "手铐",
+      "st": "handcuffs, bound wrists"
+    },
+    {
+      "id": "rope",
+      "name": "魔绳",
+      "st": "rope, shibari, rope marks"
+    },
+    {
+      "id": "vib",
+      "name": "魔导振动器",
+      "st": "vibrator"
+    },
+    {
+      "id": "shocks",
+      "name": "电击魔石",
+      "st": "electrodes, electric"
+    },
+    {
+      "id": "candle",
+      "name": "蜡烛",
+      "st": "candle, wax, wax dripping"
+    },
+    {
+      "id": "nclamp",
+      "name": "乳夹",
+      "st": "nipple clamps"
+    },
+    {
+      "id": "syr",
+      "name": "注射器",
+      "st": "syringe, injection"
+    },
+    {
+      "id": "blind",
+      "name": "眼罩",
+      "st": "blindfold, blindfolded"
+    },
+    {
+      "id": "gag",
+      "name": "口枷",
+      "st": "ball gag, gagged, drooling"
+    },
+    {
+      "id": "collar",
+      "name": "项圈",
+      "st": "collar, leash"
+    }
+  ]
+}
