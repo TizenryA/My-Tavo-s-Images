@@ -1,0 +1,52 @@
+[
+  {
+    "id": "neck",
+    "name": "颈部",
+    "t": "neck focus"
+  },
+  {
+    "id": "chest",
+    "name": "胸部",
+    "t": "breast focus, breasts"
+  },
+  {
+    "id": "nipple",
+    "name": "乳首",
+    "t": "nipple focus, nipples"
+  },
+  {
+    "id": "abdom",
+    "name": "腹部",
+    "t": "stomach, navel"
+  },
+  {
+    "id": "ithigh",
+    "name": "大腿内侧",
+    "t": "inner thigh, thighs"
+  },
+  {
+    "id": "butt",
+    "name": "臀部",
+    "t": "ass focus, buttocks"
+  },
+  {
+    "id": "feet",
+    "name": "足部",
+    "t": "feet, foot focus"
+  },
+  {
+    "id": "ear",
+    "name": "耳朵(种族)",
+    "t": "ear focus, pointed ears"
+  },
+  {
+    "id": "tail",
+    "name": "尾巴根部(种族)",
+    "t": "tail, tail grab"
+  },
+  {
+    "id": "wing",
+    "name": "翼根(种族)",
+    "t": "wing, wing base"
+  }
+]
