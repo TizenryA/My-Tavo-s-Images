@@ -55,9 +55,9 @@
   },
   "c_1770655413454": {
     "name": "精致厚涂",
-    "suffix": "detailed, high quality, {masterpiece}, anime style, semi-realistic, thick painting style, {glossy skin}, oily skin, {skin highlights}, detailed skin texture, smooth skin, {beautiful detailed lighting}, warm lighting, rim light, high contrast, volumetric light, {detailed eyes}, detailed face, detailed fingers, detailed toes, detailed anatomy, {expressive face}, dynamic angle, from above, cinematic composition, depth of field, indoor, detailed background, vivid colors, sharp focus",
+    "suffix": "detailed, high quality, {masterpiece}, anime style, semi-realistic, thick painting style, {glossy skin}, oily skin, {skin highlights}, detailed skin texture, smooth skin, glistening skin, wet skin, sweat, body oil, shiny skin, {beautiful detailed lighting}, warm lighting, rim light, high contrast, volumetric light, dramatic lighting, strong shadows, backlighting, golden hour lighting, {detailed eyes}, detailed face, detailed fingers, detailed toes, detailed anatomy, {expressive face}, dynamic angle, from above, foreshortening, perspective, cinematic composition, depth of field, indoor, {detailed background}, intricate details, fine details, pore detail, vivid colors, sharp focus",
     "neg": "lowres, bad anatomy, bad hands, extra fingers, fewer fingers, extra toes, fewer toes, bad feet, deformed limbs, missing limbs, fused fingers, long neck, {bad proportions}, disfigured, ugly, blurry, pixelated, flat shading, flat colors, matte skin, dull colors, {simple background}, sketch, lineart, chibi, low quality, worst quality, jpeg artifacts, watermark, text, signature, extra arms, extra legs, malformed, cropped",
-    "sampler": "k_euler_ancestral",
+    "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
     "scale": 6,
     "smea": false,
