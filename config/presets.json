@@ -54,9 +54,9 @@
     "variety": false
   },
   "c_1770655413454": {
-    "name": "落英专用",
-    "suffix": "character sheet, reference sheet, simple background, white background, clean lineart, thin lineart, soft shading, minimal shading, flat color, natural skin tone, realistic proportions, detailed anatomy, nude, full body, multiple views, front view, side view, back view, standing, simple pose, high quality",
-    "neg": "vibrant colors, high contrast, dramatic lighting, thick lineart, sketch, rough, chibi, stylized proportions",
+    "name": "精致厚涂",
+    "suffix": "detailed, high quality, {masterpiece}, anime style, semi-realistic, thick painting style, {glossy skin}, oily skin, {skin highlights}, detailed skin texture, smooth skin, {beautiful detailed lighting}, warm lighting, rim light, high contrast, volumetric light, {detailed eyes}, detailed face, detailed fingers, detailed toes, detailed anatomy, {expressive face}, dynamic angle, from above, cinematic composition, depth of field, indoor, detailed background, vivid colors, sharp focus",
+    "neg": "lowres, bad anatomy, bad hands, extra fingers, fewer fingers, extra toes, fewer toes, bad feet, deformed limbs, missing limbs, fused fingers, long neck, {bad proportions}, disfigured, ugly, blurry, pixelated, flat shading, flat colors, matte skin, dull colors, {simple background}, sketch, lineart, chibi, low quality, worst quality, jpeg artifacts, watermark, text, signature, extra arms, extra legs, malformed, cropped",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
