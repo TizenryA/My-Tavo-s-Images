@@ -4,46 +4,46 @@
     "icon": "🔗",
     "methods": [
       {
-        "id": "cmd_train",
+        "id": "cmd",
         "name": "口令训练",
         "desc": "反复指令建立条件反射",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "kneeling, obedient pose, collar, command"
+        "st": "kneeling, obedient pose, collar"
       },
       {
-        "id": "posture_train",
+        "id": "posture",
         "name": "体位训练",
-        "desc": "强制特定姿势长时间维持",
+        "desc": "强制特定姿势维持",
         "params": [
           "intensity",
           "duration",
           "parts"
         ],
-        "scene_tags": "forced pose, restrained, stress position"
+        "st": "forced pose, restrained"
       },
       {
-        "id": "cond_reflex",
+        "id": "cond",
         "name": "条件反射",
-        "desc": "将特定刺激与特定反应绑定",
+        "desc": "刺激与反应绑定",
         "params": [
           "intensity",
           "duration",
           "count"
         ],
-        "scene_tags": "conditioned response, bell, training"
+        "st": "conditioned response"
       },
       {
-        "id": "reward_punish",
+        "id": "rp",
         "name": "奖惩循环",
-        "desc": "系统性奖惩建立服从路径",
+        "desc": "系统性奖惩",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "reward, punishment, carrot and stick"
+        "st": "reward, punishment"
       }
     ]
   },
@@ -52,49 +52,49 @@
     "icon": "💗",
     "methods": [
       {
-        "id": "sensitive_dev",
+        "id": "sendev",
         "name": "敏感点开发",
-        "desc": "系统性开发身体敏感区域",
+        "desc": "开发敏感区域",
         "params": [
           "intensity",
           "parts",
           "duration",
           "count"
         ],
-        "scene_tags": "sensitive, stimulation, trembling, flushed"
+        "st": "sensitive, stimulation, trembling"
       },
       {
-        "id": "forced_orgasm",
+        "id": "fororg",
         "name": "强制高潮",
-        "desc": "不间断刺激直至高潮",
+        "desc": "不间断刺激至高潮",
         "params": [
           "intensity",
           "parts",
           "duration",
           "count"
         ],
-        "scene_tags": "forced orgasm, overstimulation, ahegao, convulsing"
+        "st": "forced orgasm, ahegao"
       },
       {
-        "id": "fetish_implant",
+        "id": "fetish",
         "name": "性癖植入",
-        "desc": "通过反复关联植入特定性癖",
+        "desc": "反复关联植入性癖",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "hypnosis, mind control, blank eyes"
+        "st": "hypnosis, blank eyes"
       },
       {
-        "id": "orgasm_control",
+        "id": "orgctl",
         "name": "高潮控制",
-        "desc": "反复逼近阈值但不允许释放",
+        "desc": "逼近阈值不允许释放",
         "params": [
           "intensity",
           "duration",
           "count"
         ],
-        "scene_tags": "edging, denied orgasm, desperate, begging"
+        "st": "edging, denied orgasm, begging"
       }
     ]
   },
@@ -103,7 +103,7 @@
     "icon": "⚡",
     "methods": [
       {
-        "id": "whipping",
+        "id": "whip",
         "name": "鞭打",
         "desc": "皮鞭惩戒",
         "params": [
@@ -111,49 +111,49 @@
           "parts",
           "count"
         ],
-        "scene_tags": "whip, whip marks, red marks, screaming"
+        "st": "whip, whip marks, screaming"
       },
       {
-        "id": "confinement",
+        "id": "confine",
         "name": "禁闭",
-        "desc": "黑暗隔离空间长时间关押",
+        "desc": "黑暗隔离",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "solitary, dark room, isolation, curled up"
+        "st": "dark room, isolation"
       },
       {
         "id": "shock",
         "name": "电击",
-        "desc": "魔石电击惩罚",
+        "desc": "魔石电击",
         "params": [
           "intensity",
           "parts",
           "count"
         ],
-        "scene_tags": "electric shock, convulsing, electrodes"
+        "st": "electric shock, convulsing"
       },
       {
-        "id": "sensory_dep",
-        "name": "感官剥夺",
-        "desc": "遮蔽所有感官",
-        "params": [
-          "intensity",
-          "duration"
-        ],
-        "scene_tags": "blindfold, earplugs, sensory deprivation"
-      },
-      {
-        "id": "long_restrain",
+        "id": "restrain",
         "name": "长时间拘束",
-        "desc": "长时间固定姿势拘束",
+        "desc": "固定姿势拘束",
         "params": [
           "intensity",
           "duration",
           "parts"
         ],
-        "scene_tags": "bound, restrained, suspension, rope marks"
+        "st": "bound, suspension, rope marks"
+      },
+      {
+        "id": "n1770917235021",
+        "name": "工口特化惩罚性木马",
+        "desc": "特化性惩罚",
+        "params": [
+          "intensity",
+          "duration"
+        ],
+        "st": "这架特制惩罚木马通体采用黑铁与深色实木结合，底座厚重稳固，四角焊死在地面，防止任何晃动。核心是一道狭窄而锋利的木质脊棱，上窄下宽，棱脊表面包裹薄黑皮，却故意保留一条凸起的硬脊，足以精准卡入胯间最脆弱的软肉，长时间承重会带来持续的钝痛与压迫。 脊梁正中竖立一根粗长晶莹的魔法阳具，通体透明水晶质地，表面布满流动的紫色魔纹，顶端微微上翘，内部嵌多段独立震动马达，可从低频脉冲切换到高频狂震。阳具根部连接细软管，能定时分泌温热润滑魔液，保证长时间使用不干涩，并可选注入微电流或温冷交替液体。基座内藏遥控模块，可外接控制器随意调节强度、节奏、甚至短暂电击脉冲。 双侧设有可调节高度的脚踏固定板，脚踝位置配宽皮带扣与金属环，脚趾部分预留十条细绳孔，每孔可单独穿绳固定单个脚趾，并附带十枚微型震动蛋，可同步或独立控制。脚底板下方各悬挂可拆卸铅球接口，重量分级（0.5-3kg可选），铅球表面冰冷，通过短链连接，确保脚掌被迫绷直却无法完全卸力。 胸部区域设有两组乳头夹：金属鳄鱼夹咬合力强，夹尾连接细链与铅坠接口（铅坠重量同样分级）。夹子根部预留红绳穿孔，可直接进行龟甲缚或乳根紧缚，将绳结固定于木马后方铁环，使乳房被勒得鼓胀充血。绳材为优质麻绳或丝绳，触感粗糙，勒痕持久。 眼部配备独立黑缎眼罩，内衬厚实海绵，完全隔绝光线，眼罩后侧有魔术贴与细带，可快速固定于头部或直接挂于木马前柱备用。 双手反绑区位于木马尾端，设多个铁环与红绳固定点，可将手腕高绑或低绑，强制上身后仰。整个装置下方内置透明收集盘与排水槽，所有液体滴落清晰可闻。侧面还可选伸出软毛刷或细针滚轮，遥控启动后轻刷大腿内侧或会阴周边。 整架木马表面抛光却保留金属冷感，所有绑点、接口、震动模块均可模块化拆卸调整，适合不同体型与惩罚时长。bdsm wooden horse, sharp narrow wooden ridge, black leather padding on ridge, large vibrating magical dildo mounted on center, transparent crystal dildo, purple glowing runes, curved tip, internal vibration motors, lube dispensing tubes at base, remote control module, ankle restraint straps on stirrups, toe bondage ropes, small vibrators attached to each toe, heavy lead balls hanging from toe ropes, metal nipple clamps with chains and lead weights, red shibari rope loops for breast binding, turtle shell bondage points, black satin blindfold with velcro straps, wrist restraint rings at rear, red rope bindings, transparent drip collection tray underneath, optional soft brushes or needle rollers on sides, heavy iron base, clinical punishment room setting, cold lighting, detailed mechanical parts, pipes and chains background, high detail, masterpiece, best quality, erotic torture device, intricate restraints, modular design"
       }
     ]
   },
@@ -162,44 +162,44 @@
     "icon": "🧠",
     "methods": [
       {
-        "id": "self_strip",
+        "id": "selfst",
         "name": "自我剥离",
-        "desc": "系统性剥离原有自我认知",
+        "desc": "剥离自我认知",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "blank stare, identity loss, hollow eyes"
+        "st": "blank stare, hollow eyes"
       },
       {
-        "id": "id_replace",
+        "id": "idrep",
         "name": "身份替换",
-        "desc": "用新身份覆写原有人格",
+        "desc": "新身份覆写",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "pet play, dehumanization, collar, leash"
+        "st": "pet play, dehumanization"
       },
       {
-        "id": "shame_therapy",
+        "id": "shame",
         "name": "羞耻疗法",
-        "desc": "通过公开展示和镜前确认",
+        "desc": "公开展示镜前确认",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "embarrassed, blushing, exposed, mirror"
+        "st": "embarrassed, blushing, mirror"
       },
       {
-        "id": "race_break",
+        "id": "racebrk",
         "name": "种族认同瓦解",
         "desc": "迫使放弃种族骄傲",
         "params": [
           "intensity",
           "duration"
         ],
-        "scene_tags": "broken pride, crying, humiliation"
+        "st": "broken pride, crying"
       }
     ]
   },
