@@ -62,5 +62,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1770989274583": {
+    "name": "张三推荐",
+    "suffix": "houkisei,misaka_12003-gou,meion,[kaede_(sayappa),dishwasher1910],reoen, sencha_(senchat),you_shimizu,",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, poorly drawn, bad face, distorted face",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
