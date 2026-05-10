@@ -72,5 +72,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1778388550583": {
+    "name": "Niko特殊",
+    "suffix": "nsfw, explicit, uncensored, completely nude, {detailed nipples}, erect nipples, {detailed pussy}, gaping pussy, labia, pussy juice, crotch focus,{{{masterpiece}}}, {best quality}, amazing quality, very aesthetic, anime style, detailed",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, poorly drawn, bad face, distorted face",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
